@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:S:/public/Study/Finite Difference Methods/I Boundary Value Problems and Iterative Methods/01 Finite Difference Approximations/media/videos/01 Finite Difference Approximations/1080p60/partial_movie_files/Exp11/1413466013_4216735858_223132457.mp4'
+file 'file:S:/public/Study/Finite Difference Methods/I Boundary Value Problems and Iterative Methods/01 Finite Difference Approximations/media/videos/01 Finite Difference Approximations/1080p60/partial_movie_files/Exp11/1672018281_349636313_2693383918.mp4'
+file 'file:S:/public/Study/Finite Difference Methods/I Boundary Value Problems and Iterative Methods/01 Finite Difference Approximations/media/videos/01 Finite Difference Approximations/1080p60/partial_movie_files/Exp11/1672018281_1984779628_1336363296.mp4'
+file 'file:S:/public/Study/Finite Difference Methods/I Boundary Value Problems and Iterative Methods/01 Finite Difference Approximations/media/videos/01 Finite Difference Approximations/1080p60/partial_movie_files/Exp11/1672018281_219882486_200658770.mp4'
+file 'file:S:/public/Study/Finite Difference Methods/I Boundary Value Problems and Iterative Methods/01 Finite Difference Approximations/media/videos/01 Finite Difference Approximations/1080p60/partial_movie_files/Exp11/1672018281_329969645_3942017716.mp4'
